@@ -1,0 +1,481 @@
+
+
+<!DOCTYPE html>
+<html ⚡ lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+    <meta title="Lato99: Platform Game Online Paling Seru Mudah Menang" />
+    <title>Lato99: Platform Game Online Paling Seru Mudah Menang</title>
+    <meta name="description"
+        content="Lato99 merupakan sebuah platform game online paling seru dengan jaminan bonus dan hadiah kemenangan yang maksimal setiap harinya." />
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta name="webcrawlers" content="all" />
+    <meta name="spiders" content="all" />
+    <meta property="og:title" content="Lato99: Platform Game Online Paling Seru Mudah Menang" />
+    <meta property="og:description"
+        content="Lato99 merupakan sebuah platform game online paling seru dengan jaminan bonus dan hadiah kemenangan yang maksimal setiap harinya." />
+    <meta property="og:url" content="https://lato99-website.glitch.me" />
+    <meta property="og:site_name" content="Lato99" />
+    <meta property="og:author" content="Lato99" />
+    <meta property="og:image" content="https://res.cloudinary.com/drizgtl6x/image/upload/v1732765099/banner-lato99-ini.webp" />
+    <meta property="og:type" content="website" />
+    <meta name="geo.region" content="ID-JKT" />
+    <meta name="language" content="Indonesia">
+    <meta name="theme-color" content="navy">
+    <link rel="canonical" href="https://lato99-website.glitch.me" />
+    <link rel="alternate" hreflang="id" href="https://lato99-website.glitch.me" />
+    <link rel="apple-touch-icon-precomposed" href="https://res.cloudinary.com/drizgtl6x/image/upload/v1732765099/banner-lato99-ini.webp">
+    <link rel="icon" href="https://res.cloudinary.com/drizgtl6x/image/upload/v1730783781/favicon-lato99.png" type="image/x-icon">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style><noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+    <style amp-custom="">
+        *,
+        .product-features__heading p,
+        body,
+        html {
+            margin: 0
+        }
+
+        * {
+            box-sizing: border-box;
+            font-family: 'Trebuchet MS', sans-serif;
+            transition: .2s linear;
+            font-size: 16px;
+            line-height: 150%
+        }
+
+        h1,
+        h2 {
+            line-height: 100%;
+            margin-bottom: 1.5rem
+        }
+
+        body {
+            background: linear-gradient(to right, #000000 0, #000000 35%, #000000 65%, #000000 100%);
+            color: #fff
+        }
+
+        .gradient-xiaoyan {
+            background: #03f0d0;
+            background: -webkit-linear-gradient(to top, #cdedff, #cdedff);
+            background: linear-gradient(to top, #cdedff, #cdedff)
+        }
+
+        .content-width {
+            width: 70%;
+            margin: 0 auto
+        }
+
+        .content {
+            margin: 0 auto;
+            padding: 4em 0;
+            line-height: 160%
+        }
+
+        h1 {
+            font-size: 2.8em;
+            color: #fff
+        }
+
+        .clearfix {
+            clear: both
+        }
+
+        .green-text {
+            color: #3ebf43
+        }
+
+        .flex {
+            display: flex;
+            flex-direction: column;
+            align-items: center
+        }
+
+        .flex-wrap {
+            flex-wrap: wrap
+        }
+
+        .flex-center {
+            justify-content: center;
+            align-items: center
+        }
+
+        .flex-space-around {
+            justify-content: space-around
+        }
+
+        .flex-space-between {
+            justify-content: space-between
+        }
+
+        .flex-column {
+            flex-direction: column
+        }
+
+        .flex-half {
+            width: 48%
+        }
+
+        .text--capitalize {
+            text-transform: capitalize
+        }
+
+        .text--secondary {
+            color: #566584
+        }
+
+        .btn {
+            padding: 12px 40px;
+            color: #fff;
+            display: flex;
+            border: 2px solid transparent;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-shadow: 0 1px 5px rgba(0, 0, 0, .75)
+        }
+
+        .btn--primary {
+            background-color: #f1983b;
+            border-color: transparent;
+            color: #fff;
+            border-radius: 10px
+        }
+
+        .btn--secondary {
+            background: 0;
+            border: 2px solid #fff;
+            border-radius: 10px
+        }
+
+        .btn--primary:hover,
+        .btn--secondary:hover {
+            background-color: #07049b;
+            border-color: #e4be17;
+            color: #fff
+        }
+
+        .sidebar__nav-link:hover,
+        a:hover,
+        footer .meta-content a {
+            color: rgb(238, 255, 0)
+        }
+
+        a,
+        footer a {
+            text-decoration: none
+        }
+
+        .border-round {
+            border-radius: 5px
+        }
+
+        .box-shadow {
+            box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24)
+        }
+
+        .animate {
+            transition: .2s ease-in-out
+        }
+
+        #slot {
+            width: 100%
+        }
+
+        header.pst__header {
+            height: 80px;
+            background-color: #1b1502
+        }
+
+        .logo_header {
+            display: flex;
+            justify-content: space-between
+        }
+
+        .logo {
+            width: 224px;
+            margin-right: 0
+        }
+
+        .pst__menu nav a {
+            margin-left: 10px;
+            margin-right: 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px
+        }
+
+        .pst__body {
+            margin: 0 auto;
+            height: 70%
+        }
+
+        .pst__content {
+            padding: 40px 0 90px;
+            color: #fff
+        }
+
+        .pst__content amp-img {
+            max-width: 100%
+        }
+
+        .pst__content>div,
+        .product-features__content,
+        .product-features__graphic {
+            width: 80%
+        }
+
+        .pst__content>div:nth-of-type(2) .btn {
+            margin: 25px 0
+        }
+
+        .pst__content__cta {
+            font-size: 140%
+        }
+
+        .pst__content__cta.btn--primary {
+            background: repeating-linear-gradient(-45deg, rgb(156, 10, 10) 0, rgb(190, 163, 10) 7.14%, #69076d 14.28%, rgb(8, 122, 126) 21.42%, rgb(8, 112, 31) 28.56%, rgb(161, 19, 78) 35.7%, rgb(255, 38, 0) 42.84%, rgb(255, 217, 0) 50%);
+            background-size: 600vw 600vw;
+            animation: slide 10s infinite linear forwards
+        }
+
+        @keyframes slide {
+            0% {
+                background-position: 600vw
+            }
+
+            100% {
+                background-position: 0
+            }
+        }
+
+        footer {
+            background-color: #1a1701;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            padding: 35px 0 35px
+        }
+
+        @media only screen and (max-width:1450px) {
+            #slot {
+                min-height: 865px
+            }
+
+            .pst__body {
+                height: 75%
+            }
+
+            h1 {
+                font-size: 2.8em
+            }
+
+            @media only screen and (max-width:1030px) {
+                .content-width {
+                    width: 85%
+                }
+
+                h1 {
+                    font-size: 2em
+                }
+
+                nav.hide-mobile {
+                    display: none
+                }
+
+                .features__highlight {
+                    padding: 50px 30px
+                }
+
+                @media only screen and (max-width:600px) {
+
+                    .logo,
+                    .product-feature .product-feature__graphic {
+                        width: 200px
+                    }
+
+                    * {
+                        font-size: 14px;
+                        line-height: 160%
+                    }
+
+                    .logo {
+                        margin-left: 0;
+                        margin-right: 0
+                    }
+
+                    .content-width {
+                        width: 100%
+                    }
+
+                    #slot {
+                        min-height: 720px
+                    }
+
+                    #slot .pst__header .content-width {
+                        margin: 0
+                    }
+
+                    #logo {
+                        width: 50%
+                    }
+
+                    #slot header nav,
+                    .pst__header__cta {
+                        display: none
+                    }
+
+                    .pst__body {
+                        flex: 1;
+                        padding: 40px 20px
+                    }
+
+                    .pst__body .pst__content {
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        margin: 0;
+                        padding-top: 0
+                    }
+
+                    .pst__body .pst__content>div {
+                        width: 100%;
+                        text-align: center;
+                        margin-top: 20px
+                    }
+
+                    h1 {
+                        font-size: 1.7em;
+                        margin-top: 1em
+                    }
+
+                    .features__highlight {
+                        padding: 50px 10px
+                    }
+
+                    #footer-content {
+                        width: 90%;
+                        text-align: center
+                    }
+
+                    #footer-content p {
+                        margin-bottom: .5em
+                    }
+
+                    .copyright {
+                        display: flex;
+                        justify-content: center;
+                        color: #fff;
+                        text-align: center
+                    }
+
+                    .copyright div {
+                        padding-bottom: 10px
+                    }
+                }
+    </style>
+</head>
+
+<body>
+    <section id="cjshadow" class="slot-xiaoyan">
+        <header class="pst__header flex flex-center">
+            <div class="logo_header">
+                <div class="pst__menu flex">
+                    <div class="logo">
+                        <a href="https://cutt.ly/daftarlato99">
+                            <amp-img class="pst__logo" src="https://res.cloudinary.com/drizgtl6x/image/upload/v1730785390/lato99-logo.png"
+                                width="180" height="50" layout="responsive" alt="slot ninja"></amp-img>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="pst__body content-width flex flex-center">
+            <div class="pst__content flex flex-space-between">
+                <div>
+                    <amp-img src="https://res.cloudinary.com/drizgtl6x/image/upload/v1732765099/banner-lato99-ini.webp" width="1000" height="1000"
+                        layout="responsive" alt="ninja slot"></amp-img>
+                </div>
+                <div>
+                    <h1 style="text-align: center;">Lato99: Platform Game Online Paling Seru Mudah Menang</h1>
+                    <a href="https://cutt.ly/loginlt99" class="pst__content__cta btn btn--secondary">LOGIN</a>
+                    <a href="https://cutt.ly/daftarlato99" class="pst__content__cta btn btn--primary">DAFTAR</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="copyright">Power Of Starboy
+    </footer>
+</body>
+
+</html>
